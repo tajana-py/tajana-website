@@ -1,0 +1,53 @@
+/* .gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+} */
+
+a {
+  color: #212529;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.title-text {
+  font-family: 'Sacramento', cursive;
+  font-size: 7rem;
+  color:#ffffff;
+}
+
+.profile-img{
+  height: 200px;
+  border-radius: 50%;
+}
+
+.projects-img{
+  width: 90%;
+  border-radius: 1%;
+}
+
+.latin{
+  font-style: italic;
+}
+
+
+li.mb-1{
+  color:white;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
