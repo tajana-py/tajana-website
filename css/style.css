@@ -17,6 +17,12 @@
   }
 } */
 
+.bg-image {
+  background-image: url('./images/background-img.png');
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
 a {
   color: #212529;
   margin: 0;
