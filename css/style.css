@@ -60,10 +60,10 @@ li.mb-1{
 
 @media screen and (max-width: 680px) {
   .carousel-caption {
-    top: 0;
+    bottom: 0;
   }
   .carousel-caption h1 {
-    font-size: 1.5rem;
+    font-size: 0.5rem;
   }
 
 
