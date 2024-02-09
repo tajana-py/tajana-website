@@ -58,4 +58,13 @@ li.mb-1{
   font-size: 1.2rem;
 }
 
+@media screen and (max-width: 680px) {
+  .carousel-caption {
+    top: 0;
+  }
+  .carousel-caption h1 {
+    font-size: 1.5rem;
+  }
+
+
 
