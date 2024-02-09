@@ -63,7 +63,10 @@ li.mb-1{
     bottom: 0;
   }
   .carousel-caption h4 {
-    font-size: 0.5rem;
+    font-size: 1.5rem;
+  }
+  .carousel-caption p {
+    font-size: 1rem;
   }
 
 
